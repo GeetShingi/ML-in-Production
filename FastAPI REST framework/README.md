@@ -1,4 +1,4 @@
-# Ungraded Lab - Deploying a Deep Learning model
+# Deploying a Deep Learning model
  
 ## Introduction
 This example illustrates the process of deploying an already trained Deep Learning model. To do so, we will take advantage of the user-friendly library fastAPI that provides a nice REST API framework.
